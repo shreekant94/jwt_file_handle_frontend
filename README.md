@@ -1,8 +1,9 @@
-# React + Vite
+Frontend Link:
+https://transcendent-cupcake-d74797.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Backend Link:
+https://jwt-auth-file-handling.vercel.app/
 
-Currently, two official plugins are available:
+Backend github link:
+https://github.com/shreekant94/jwt_auth_file_handling.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
